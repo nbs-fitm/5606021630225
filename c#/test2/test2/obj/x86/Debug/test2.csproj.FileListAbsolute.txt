@@ -1,0 +1,9 @@
+c:\users\teen\documents\visual studio 2010\Projects\test2\test2\bin\Debug\test2.exe
+c:\users\teen\documents\visual studio 2010\Projects\test2\test2\bin\Debug\test2.pdb
+c:\users\teen\documents\visual studio 2010\Projects\test2\test2\obj\x86\Debug\test2.Form1.resources
+c:\users\teen\documents\visual studio 2010\Projects\test2\test2\obj\x86\Debug\test2.Properties.Resources.resources
+c:\users\teen\documents\visual studio 2010\Projects\test2\test2\obj\x86\Debug\test2.csproj.GenerateResource.Cache
+c:\users\teen\documents\visual studio 2010\Projects\test2\test2\obj\x86\Debug\test2.exe
+c:\users\teen\documents\visual studio 2010\Projects\test2\test2\obj\x86\Debug\test2.pdb
+C:\Users\Teen\Desktop\c#\test2\test2\obj\x86\Debug\test2.exe
+C:\Users\Teen\Desktop\c#\test2\test2\obj\x86\Debug\test2.pdb

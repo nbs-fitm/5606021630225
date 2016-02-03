@@ -1,0 +1,8 @@
+C:\Users\Teen\Desktop\c#\test1\test1\bin\Debug\test1.exe
+C:\Users\Teen\Desktop\c#\test1\test1\bin\Debug\test1.pdb
+C:\Users\Teen\Desktop\c#\test1\test1\obj\x86\Debug\test1.Form1.resources
+C:\Users\Teen\Desktop\c#\test1\test1\obj\x86\Debug\test1.Properties.Resources.resources
+C:\Users\Teen\Desktop\c#\test1\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\Teen\Desktop\c#\test1\test1\obj\x86\Debug\test1.exe
+C:\Users\Teen\Desktop\c#\test1\test1\obj\x86\Debug\test1.pdb
+C:\Users\Teen\Desktop\c#\test1\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
